@@ -1,8 +1,8 @@
 # An Analysis of Kickstarter Campaigns
-##Preforming analysis on Kickstarter data to uncover trends using spoecific data to find out important information regarding the campaigns.
-###Purpose
+## Preforming analysis on Kickstarter data to uncover trends using spoecific data to find out important information regarding the campaigns.
+### Purpose
 The purpose of this anaylsis on the campaings to provide results from the outcomes based on launch date and based on goals.
-##Analysis and Challenges
+## Analysis and Challenges
 The Analysis was taking the Outcome category and seeing two different types of results that can be beneficial to Louise or other campaigns. This information based from outcomes, date created and goals all tell a different story about whether the plays were successful, failed. Or tell a story about the theater and what months had the most successful or failed campaigns.
 ### Analysis of Outcomes Based on Launch Date
 The first analysis is the outcomes based on launch dates. I took the data from the Kickstarted data sheet and created a Pivot tabled filtered by Parent Category Theater and filtered by the date it was created. The launch date's were converted in excel using Unix time stamps that excel converts into dates. That column was then used to interpret the outcomes based by dates. 
